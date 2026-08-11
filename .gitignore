@@ -1,0 +1,27 @@
+# Internal Drive links — never publish
+.env
+
+# macOS / Office junk
+.DS_Store
+~$*
+*.tmp
+
+# Confidential assessment material is Drive/LMS only.
+# The generator counts too: it embeds every exam question and model answer inline.
+assessment/
+build/build_assessment.py
+
+# Source material the project was derived from — not ours to republish.
+**/reference/
+# Slide images extracted from the v14 source deck — migration input, used by no builder.
+assets/ref/
+
+# Build caches
+__pycache__/
+*.pyc
+
+# Local Claude Code tooling (skills, hooks, push scripts) — not course material
+.claude/
+
+# Distribution archives (rebuildable — never pushed to GitHub)
+*.zip

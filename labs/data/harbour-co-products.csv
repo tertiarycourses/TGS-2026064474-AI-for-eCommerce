@@ -1,0 +1,6 @@
+Type,SKU,Name,Published,Short description,Regular price,Sale price,Categories,Tags,In stock?,Stock,Weight (kg)
+simple,LINEN-SHIRT-001,Linen Summer Shirt,1,"Lightweight 100% linen shirt, cut for hot-weather comfort.",49.90,,Apparel > Shirts,"linen, summer, breathable",1,40,0.25
+simple,JACKET-DENIM-001,Classic Denim Jacket,1,A timeless unisex denim jacket in mid-wash indigo.,89.90,79.90,Apparel > Outerwear,"denim, unisex",1,25,0.7
+simple,TOTE-CANVAS-001,Canvas Tote Bag,1,"Heavy-duty canvas tote for groceries, gym and laptops.",24.90,,Accessories,"canvas, eco, everyday",1,60,0.3
+simple,SCARF-MERINO-001,Merino Wool Scarf,1,Ultra-soft merino scarf for travel and air-conditioned offices.,34.90,,Accessories,"merino, winter, travel",1,35,0.15
+simple,BELT-LEATHER-001,Leather Belt,1,Full-grain leather belt with a brushed-steel buckle.,32.90,,Accessories,"leather, formal",1,45,0.2
