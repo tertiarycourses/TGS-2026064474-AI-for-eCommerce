@@ -1,5 +1,5 @@
 """
-SINGLE SOURCE OF TRUTH — Building a Successful eCommerce Store with WooCommerce.
+SINGLE SOURCE OF TRUTH — AI for eCommerce.
 
 WSQ Course Code: TGS-2026064474
 TSC: RET-CIE-4002-1.1 Content Management System Utilisation (Level 4)
@@ -26,11 +26,11 @@ visually — never the numbered steps.
 """
 
 # ------------------------------------------------------------------ metadata
-TITLE        = "Building a Successful eCommerce Store with WooCommerce"
-SHORT_TITLE  = "Building a Successful eCommerce Store with WooCommerce"
+TITLE        = "AI for eCommerce"
+SHORT_TITLE  = "AI for eCommerce"
 COURSE_CODE  = "TGS-2026064474"
-VERSION      = "v15.1"
-VERSION_DATE = "11 August 2026"
+VERSION      = "v15.2"
+VERSION_DATE = "28 September 2026"
 ORG          = "Tertiary Infotech Academy Pte Ltd"
 UEN          = "UEN: 201200696W"
 TRAINER      = "Dr. Alfred Ang"

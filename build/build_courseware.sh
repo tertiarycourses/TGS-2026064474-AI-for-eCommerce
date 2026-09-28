@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Build every artifact for "Building a Successful eCommerce Store with WooCommerce"
+# Build every artifact for "AI for eCommerce"
 # (TGS-2026064474) from the
 # single source of truth (course_data.py + data_domain1..5.py).
 #

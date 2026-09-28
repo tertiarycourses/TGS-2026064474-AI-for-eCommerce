@@ -1,6 +1,6 @@
-# Building a Successful eCommerce Store with WooCommerce — Learner Guide
+# AI for eCommerce — Learner Guide
 
-**WSQ Course Code:** TGS-2026064474  |  **Conducted by:** Tertiary Infotech Academy Pte Ltd (UEN 201200696W)  |  **Version v15.1 · 11 August 2026**
+**WSQ Course Code:** TGS-2026064474  |  **Conducted by:** Tertiary Infotech Academy Pte Ltd (UEN 201200696W)  |  **Version v15.2 · 28 September 2026**
 
 ## Contents
 
@@ -31,7 +31,7 @@
 
 ## Introduction
 
-This Learner Guide accompanies the WSQ course Building a Successful eCommerce Store with WooCommerce (TGS-2026064474), conducted by Tertiary Infotech Academy Pte Ltd. It is a one-day (8-hour) course mapped to the Skills Framework TSC Content Management System Utilisation (RET-CIE-4002-1.1, Level 4).
+This Learner Guide accompanies the WSQ course AI for eCommerce (TGS-2026064474), conducted by Tertiary Infotech Academy Pte Ltd. It is a one-day (8-hour) course mapped to the Skills Framework TSC Content Management System Utilisation (RET-CIE-4002-1.1, Level 4).
 
 The course is deliberately practical. Topic 1 sets up the store and its policies; Topic 2 builds and curates the product catalogue; Topic 3 configures how customers pay and receive their goods; Topic 4 runs the store day to day through orders, refunds and promotions; and Topic 5 measures whether any of it is working. Every lab runs on WooCommerce (https://woocommerce.com), the open-source eCommerce platform for WordPress (https://wordpress.org/plugins/woocommerce/).
 

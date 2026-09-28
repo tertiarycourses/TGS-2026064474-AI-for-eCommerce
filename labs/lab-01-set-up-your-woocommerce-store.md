@@ -1,6 +1,6 @@
 # Lab 1 — Set Up Your WooCommerce Store
 
-**Course:** Building a Successful eCommerce Store with WooCommerce (TGS-2026064474)  
+**Course:** AI for eCommerce (TGS-2026064474)  
 **Topic 01:** Overview of WooCommerce CMS  
 **Objective:** Set up and monitor a WooCommerce CMS so it adheres to store guidelines and policies (A1, K1).  
 **Platform:** WooCommerce — https://woocommerce.com

@@ -1,6 +1,6 @@
 # Lab 5 — Configure Payment Methods and Shipping Zones
 
-**Course:** Building a Successful eCommerce Store with WooCommerce (TGS-2026064474)  
+**Course:** AI for eCommerce (TGS-2026064474)  
 **Topic 03:** Manage Payments and Shipping  
 **Objective:** Recommend and configure payment and shipping methods that improve customer experience (A3, K3).  
 **Platform:** WooCommerce — https://woocommerce.com

@@ -1,6 +1,6 @@
 # Lab 3 — Create a Variable Product with Attributes and Variations
 
-**Course:** Building a Successful eCommerce Store with WooCommerce (TGS-2026064474)  
+**Course:** AI for eCommerce (TGS-2026064474)  
 **Topic 02:** Manage Products on WooCommerce Store  
 **Objective:** Maintain product web content that carries options, pricing and stock per variation (A4, K2, K4).  
 **Platform:** WooCommerce — https://woocommerce.com

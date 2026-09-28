@@ -1,6 +1,6 @@
 # Lab 4 — Curate the Catalogue — Linked Products and CSV Import
 
-**Course:** Building a Successful eCommerce Store with WooCommerce (TGS-2026064474)  
+**Course:** AI for eCommerce (TGS-2026064474)  
 **Topic 02:** Manage Products on WooCommerce Store  
 **Objective:** Ensure smooth maintenance and consistent bulk updates of the product catalogue (A4, K2, K4).  
 **Platform:** WooCommerce — https://woocommerce.com

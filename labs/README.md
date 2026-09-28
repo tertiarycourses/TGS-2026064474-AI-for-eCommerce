@@ -1,4 +1,4 @@
-# Hands-On Labs — Building a Successful eCommerce Store with WooCommerce
+# Hands-On Labs — AI for eCommerce
 
 **WSQ Course Code:** TGS-2026064474 · Conducted by Tertiary Infotech Academy Pte Ltd (UEN 201200696W)
 

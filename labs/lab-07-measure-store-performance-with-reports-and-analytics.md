@@ -1,6 +1,6 @@
 # Lab 7 — Measure Store Performance with Reports and Analytics
 
-**Course:** Building a Successful eCommerce Store with WooCommerce (TGS-2026064474)  
+**Course:** AI for eCommerce (TGS-2026064474)  
 **Topic 05:** Manage WooCommerce Performance  
 **Objective:** Develop and review metrics to measure the performance of the store (A2, K6, K7).  
 **Platform:** WooCommerce — https://woocommerce.com

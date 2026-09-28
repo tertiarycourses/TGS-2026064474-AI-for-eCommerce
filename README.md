@@ -1,12 +1,12 @@
-# Building a Successful eCommerce Store with WooCommerce — WSQ Courseware
+# AI for eCommerce — WSQ Courseware
 
 **WSQ Course Code:** TGS-2026064474
 **Conducted by:** Tertiary Infotech Academy Pte Ltd (UEN 201200696W)
 **Trainer:** Dr. Alfred Ang
 **Duration:** 1 day · 8 training hours (9:30 am – 6:30 pm, 1-hour lunch)
 **Skills Framework:** Content Management System Utilisation — RET-CIE-4002-1.1 (Retail, Level 4)
-**Version:** v15.1 · 11 August 2026
-**Course page:** https://www.tertiarycourses.com.sg/wsq-building-a-successful-ecommerce-store-with-woocommerce.html
+**Version:** v15.2 · 28 September 2026
+**Course page:** https://www.tertiarycourses.com.sg/casl-ai-for-ecommerce.html
 
 A hands-on, one-day course in running WordPress + WooCommerce as a content management
 system. Across seven labs you build one continuous store — **Harbour & Co**, a small
@@ -18,11 +18,11 @@ finally the reports that tell you whether any of it worked.
 
 | Artifact | Path |
 |---|---|
-| Trainer slide deck (143 slides) | [courseware/Building a Successful eCommerce Store with WooCommerce-v15.1.pptx](courseware/Building%20a%20Successful%20eCommerce%20Store%20with%20WooCommerce-v15.1.pptx) |
-| Learner slides (PDF) | [courseware/Building a Successful eCommerce Store with WooCommerce-v15.1.pdf](courseware/Building%20a%20Successful%20eCommerce%20Store%20with%20WooCommerce-v15.1.pdf) |
-| Lesson Plan | [courseware/LP-Building a Successful eCommerce Store with WooCommerce.docx](courseware/LP-Building%20a%20Successful%20eCommerce%20Store%20with%20WooCommerce.docx) · [PDF](courseware/LP-Building%20a%20Successful%20eCommerce%20Store%20with%20WooCommerce.pdf) |
-| Learner Guide | [courseware/LG-Building a Successful eCommerce Store with WooCommerce.docx](courseware/LG-Building%20a%20Successful%20eCommerce%20Store%20with%20WooCommerce.docx) · [PDF](courseware/LG-Building%20a%20Successful%20eCommerce%20Store%20with%20WooCommerce.pdf) |
-| Learner Guide (Markdown mirror) | [LG-Building a Successful eCommerce Store with WooCommerce.md](LG-Building%20a%20Successful%20eCommerce%20Store%20with%20WooCommerce.md) |
+| Trainer slide deck (143 slides) | [courseware/AI for eCommerce-v15.2.pptx](courseware/AI%20for%20eCommerce-v15.2.pptx) |
+| Learner slides (PDF) | [courseware/AI for eCommerce-v15.2.pdf](courseware/AI%20for%20eCommerce-v15.2.pdf) |
+| Lesson Plan | [courseware/LP-AI for eCommerce.docx](courseware/LP-AI%20for%20eCommerce.docx) · [PDF](courseware/LP-AI%20for%20eCommerce.pdf) |
+| Learner Guide | [courseware/LG-AI for eCommerce.docx](courseware/LG-AI%20for%20eCommerce.docx) · [PDF](courseware/LG-AI%20for%20eCommerce.pdf) |
+| Learner Guide (Markdown mirror) | [LG-AI for eCommerce.md](LG-AI%20for%20eCommerce.md) |
 | Hands-on labs (7) | [labs/](labs/) — see [labs/README.md](labs/README.md) |
 | Sample product CSV | [labs/data/harbour-co-products.csv](labs/data/harbour-co-products.csv) |
 | Build source (single source of truth) | [build/](build/) |

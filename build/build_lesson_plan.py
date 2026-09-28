@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the Building a Successful eCommerce Store with WooCommerce
+"""Generate the AI for eCommerce
 (TGS-2026064474) Lesson Plan (LP) DOCX in the Tertiary house format.
 
 Cover page + Document Version Control Record + auto TOC + Arial 11pt body +
@@ -141,12 +141,14 @@ prodoc.add_version_control(doc,[
   "The four legacy activities are expanded into seven structured hands-on labs with full step-by-step "
   "instructions in the Learner Guide. Assessment stated as Practical Performance 75 min plus Oral "
   "Questioning 15 min, per the approved Assessment Plan CRS-Q-0040881-RET v1.0.",C.TRAINER),
- (C.VERSION.lstrip("v"),C.VERSION_DATE,
+ ("15.1","11 August 2026",
   "Adds the classroom demo lab environment — five demo WordPress training sites "
   f"({C.LAB_SITES_RANGE}, login at {C.LAB_LOGIN_PATH}), one assigned per learner and reset before each "
   f"class — and a realistic demo-store storyline: the labs build {C.STORE_NAME}, the same Singapore "
   "apparel retailer used in the Practical Performance scenario, with named mock products, SKUs, prices "
   "and stock levels, plus a sample product CSV for the import lab.",C.TRAINER),
+ (C.VERSION.lstrip("v"),C.VERSION_DATE,
+  "Course retitled from 'Building a Successful eCommerce Store with WooCommerce' to 'AI for eCommerce' to match the current course listing. Topics, labs, schedule and assessment are unchanged.",C.TRAINER),
 ])
 prodoc.add_toc(doc)
 

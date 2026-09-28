@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the Building a Successful eCommerce Store with WooCommerce
+"""Generate the AI for eCommerce
 (TGS-2026064474) Learner Guide as
 BOTH a Markdown mirror (LG-*.md at repo root) and a DOCX (courseware/LG-*.docx)
 from one source, so the two can never diverge.
@@ -311,13 +311,15 @@ prodoc.add_version_control(doc,[
   "the slide deck now shows each lab's purpose and outcome only. Adds a Skills Framework mapping "
   "section, a lab troubleshooting section and a WooCommerce glossary. Assessment stated as Practical "
   "Performance 75 min plus Oral Questioning 15 min, per Assessment Plan CRS-Q-0040881-RET v1.0.",C.TRAINER),
- (C.VERSION.lstrip("v"),C.VERSION_DATE,
+ ("15.1","11 August 2026",
   "Adds the classroom demo lab environment — five demo WordPress training sites "
   f"({C.LAB_SITES_RANGE}, login at {C.LAB_LOGIN_PATH}), one assigned per learner and reset before each "
   f"class — and a realistic demo-store storyline: every lab now builds {C.STORE_NAME}, the same Singapore "
   "apparel retailer used in the Practical Performance scenario, with named mock products, SKUs, prices "
   "and stock levels carried consistently across the labs, and a sample product CSV "
   f"(labs/data/{C.STORE_CSV_NAME}) supplied for the import lab.",C.TRAINER),
+ (C.VERSION.lstrip("v"),C.VERSION_DATE,
+  "Course retitled from 'Building a Successful eCommerce Store with WooCommerce' to 'AI for eCommerce' to match the current course listing. Topics, labs, schedule and assessment are unchanged.",C.TRAINER),
 ])
 prodoc.add_toc(doc)
 

@@ -1,6 +1,6 @@
 # Lab 2 — Create and Curate a Simple Product
 
-**Course:** Building a Successful eCommerce Store with WooCommerce (TGS-2026064474)  
+**Course:** AI for eCommerce (TGS-2026064474)  
 **Topic 02:** Manage Products on WooCommerce Store  
 **Objective:** Edit and curate product web content on the WooCommerce CMS (A6, K2, K4).  
 **Platform:** WooCommerce — https://woocommerce.com

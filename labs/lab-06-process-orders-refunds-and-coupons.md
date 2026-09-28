@@ -1,6 +1,6 @@
 # Lab 6 — Process Orders, Refunds and Coupons
 
-**Course:** Building a Successful eCommerce Store with WooCommerce (TGS-2026064474)  
+**Course:** AI for eCommerce (TGS-2026064474)  
 **Topic 04:** Manage Sales on WooCommerce Store  
 **Objective:** Highlight and resolve issues related to sales, stock, refunds and promotions (A5, K5).  
 **Platform:** WooCommerce — https://woocommerce.com

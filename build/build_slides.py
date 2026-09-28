@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the Building a Successful eCommerce Store with WooCommerce
+"""Generate the AI for eCommerce
 (TGS-2026064474) slide deck (all-white Tertiary house style).
 
 Design helpers are the same set used by the tertiary-course-slides skill that
